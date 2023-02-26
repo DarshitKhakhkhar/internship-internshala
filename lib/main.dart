@@ -10,7 +10,7 @@ void main() async {
   WidgetsBinding binding = WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp().then((value) => Get.put(DataController()));
   FlutterNativeSplash.preserve(widgetsBinding: binding);
-
+//..
   runApp(const MyApp());
 }
 
