@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "877638133005",
+    "project_id": "deeplinking-3d2f9",
+    "storage_bucket": "deeplinking-3d2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877638133005:android:d5d2e17b2c9c4f11d3bc44",
+        "android_client_info": {
+          "package_name": "com.example.deeplinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa4pprMC5mO7XIGkloKowDN6LSF0Olj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877638133005-datdtpa5qsobsn12jq9eepg5k1jiaqe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getxFirestoreAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877638133005:android:673c275731badb47d3bc44",
+        "android_client_info": {
+          "package_name": "com.example.getx_firestore_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa4pprMC5mO7XIGkloKowDN6LSF0Olj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877638133005-datdtpa5qsobsn12jq9eepg5k1jiaqe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getxFirestoreAuth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877638133005:android:e2a09081374eca86d3bc44",
+        "android_client_info": {
+          "package_name": "com.example.internship_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwa4pprMC5mO7XIGkloKowDN6LSF0Olj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877638133005-gflo1q1ntdb2h2ojepgqlpo4u1977u67.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877638133005-datdtpa5qsobsn12jq9eepg5k1jiaqe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getxFirestoreAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
